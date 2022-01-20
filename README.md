@@ -10,7 +10,6 @@ For docker just use an offical Nginx image
 ```
 ...
   image: nginx
-  
 ```
 
 The Nginx default config is located here: `/etc/nginx/conf.d/default.conf`
@@ -42,5 +41,6 @@ For more information read the full documentation [here](https://docs.nginx.com/n
 2. Make sure Docker and Docker-compose is installed
 3. go in the project folder `cd nginx-playground/`
 4. Start project using `docker-compose up -d`
+5. now you can head over to [`localhost`](localhost) and start playing
 
 **Note:** IP White/Blacklist can not be tested locally  
