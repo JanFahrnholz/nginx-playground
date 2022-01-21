@@ -34,6 +34,7 @@ For more information read the full documentation [here](https://docs.nginx.com/n
 
 - costum error pages
 - IP whitelist
+- Portforwarding
 
 ## Using this playground
 
